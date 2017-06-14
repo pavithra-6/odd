@@ -6,4 +6,4 @@ if(ch>='a'&&ch<='z'||ch>='A'&&ch<='Z')
 System.out.println(ch);
 }
 }
-
+}
